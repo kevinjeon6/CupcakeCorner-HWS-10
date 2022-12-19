@@ -13,6 +13,7 @@
 		746565E029468B54008BB272 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 746565DF29468B54008BB272 /* Preview Assets.xcassets */; };
 		74A1A1522950B12000449DBF /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74A1A1512950B12000449DBF /* Order.swift */; };
 		74A1A1542950EEB800449DBF /* AddressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74A1A1532950EEB800449DBF /* AddressView.swift */; };
+		74A1A1562950F4BF00449DBF /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74A1A1552950F4BF00449DBF /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		746565DF29468B54008BB272 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		74A1A1512950B12000449DBF /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		74A1A1532950EEB800449DBF /* AddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressView.swift; sourceTree = "<group>"; };
+		74A1A1552950F4BF00449DBF /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 			children = (
 				746565DA29468B51008BB272 /* ContentView.swift */,
 				74A1A1532950EEB800449DBF /* AddressView.swift */,
+				74A1A1552950F4BF00449DBF /* CheckoutView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 			files = (
 				74A1A1522950B12000449DBF /* Order.swift in Sources */,
 				74A1A1542950EEB800449DBF /* AddressView.swift in Sources */,
+				74A1A1562950F4BF00449DBF /* CheckoutView.swift in Sources */,
 				746565DB29468B51008BB272 /* ContentView.swift in Sources */,
 				746565D929468B51008BB272 /* CupcakeCorner_HWS_10App.swift in Sources */,
 			);
